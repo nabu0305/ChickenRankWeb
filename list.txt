@@ -1,0 +1,4 @@
+<li><a href="http://localhost/index.php?id=1">치킨순위</a></li>
+<li><a href="http://localhost/index.php?id=2">치킨추천</a></li>
+<li><a href="http://localhost/index.php?id=3 ">치킨브랜드</a></li>
+     
